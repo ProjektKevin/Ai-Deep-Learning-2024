@@ -23,10 +23,10 @@ This project aims to address the common issue faced by students of finding books
 Note: numpy and elevenlabs will be installed upon running the Jupyter Notebook. Please do ensure an up-to-date version of [ffmpeg](https://ffmpeg.org) is installed on your system to allow the ElevenLabs API to output audio.
 
 ## Installation
-clone the repository
+clone the repository<br>
 `git clone https://github.com/yourusername/generative-book-visualization.git`
 
 # Contributing
-[ProjektKevin](https://github.com/ProjektKevin)
-[GabrielxKuek](https://github.com/GabrielxKuek)
-[Arnav Salkade](https://github.com/Arnie016)
+- [ProjektKevin](https://github.com/ProjektKevin)
+- [GabrielxKuek](https://github.com/GabrielxKuek)
+- [Arnav Salkade](https://github.com/Arnie016)
